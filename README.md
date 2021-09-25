@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @us3rn4med
 - 👀 I’m interested in deepening my knowledge of coding
-- 🌱 I’m currently learning Web Development Trifecta
-- 💞️ I’m looking to collaborate on small projects
+- 🌱 I’m currently learning on Web Development Trifecta
+- 💞️ I’m looking to collaborate on small fun projects, and eventually my end-goal is to to tackle more complex projects.
+- 📫 Please ask for my e-mail.
 
 
 <!---
